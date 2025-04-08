@@ -1,0 +1,12 @@
+ipykernel
+tqdm
+setuptools
+numpy<1.25 
+pandas<1.6
+matplotlib>=3.8.0
+connected-components-3d==3.14.1
+SimpleITK==2.3.1
+torchio==0.19.6
+fpdf2==2.4.6
+scikit-image
+pynrrd
