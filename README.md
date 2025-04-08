@@ -13,6 +13,10 @@ Please comply with the [software license](./LICENSE). The software comes with no
 
 Not for use in the diagnosis or treatment of patients.
 
+## Description
+
+This code is used to (i) preprocess contrast-enhanced T1w breast MRI data, ensuring the same orientation and same spacing (ii) calculate the diameter of the ascending/descending aorta in 3D space. 
+
 ## Documentation Sections
 
 - [How to install](./docs/INSTALL.md)
