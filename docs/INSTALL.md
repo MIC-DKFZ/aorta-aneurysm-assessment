@@ -17,7 +17,7 @@ SPDX-License-Identifier: CC BY-NC 4.0
 - Activate any virtual/conda environment (optional).
 - Then just run
     ```
-    pip install -r requirements
+    pip install -r requirements.txt
     pip install -e -v .
     ```
 - Command `aorta_aneurysm_v1` should now work.
